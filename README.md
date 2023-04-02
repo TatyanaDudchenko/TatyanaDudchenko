@@ -17,3 +17,8 @@
 - Node.js
 - Express.js
 - MongoDB
+
+#### Контакты:
+
+- dudchenko.ta@yandex.ru
+- https://t.me/d_tat
